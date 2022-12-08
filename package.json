@@ -1,6 +1,7 @@
 {
   "name": "@drupal-ckeditor-libraries-group/font",
   "description": "CKEditor 4 font plugin",
+  "version" : "4.20.1",
   "keywords": ["ckeditor", "plugin", "font"],
   "homepage": "https://ckeditor.com/cke4/addon/font",
   "bugs": {
